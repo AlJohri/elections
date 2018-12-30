@@ -1,0 +1,359 @@
+year,date,state,event,party,type
+2004,2004-06-01,Alabama,Primary,DEM,primary
+2004,2004-06-01,Alabama,Primary,REP,primary
+2004,2004-02-03,Arizona,Primary,DEM,primary
+2004,2004-05-18,Arkansas,Primary,DEM,primary
+2004,2004-05-18,Arkansas,Primary,REP,primary
+2004,2004-03-02,California,Primary,DEM,primary
+2004,2004-03-02,California,Primary,REP,primary
+2004,2004-04-13,Colorado,Precinct Caucus,DEM,primary
+2004,2004-03-02,Connecticut,Primary,DEM,primary
+2004,2004-03-02,Connecticut,Primary,REP,primary
+2004,2004-02-03,Delaware,Primary,DEM,primary
+2004,2004-03-27,Democrats Abroad,Regional Caucuses,DEM,primary
+2004,2004-01-13,District of Columbia,Primary,DEM,primary
+2004,2004-02-10,District of Columbia,Caucus,REP,primary
+2004,2004-03-09,Florida,Primary,DEM,primary
+2004,2004-03-09,Florida,Primary,REP,primary
+2004,2004-03-02,Georgia,Primary,DEM,primary
+2004,2004-03-02,Georgia,Primary,REP,primary
+2004,2004-02-24,Hawaii,Precinct Caucus,DEM,primary
+2004,2004-02-24,Idaho,County Caucus,DEM,primary
+2004,2004-05-25,Idaho,Primary,REP,primary
+2004,2004-03-16,Illinois,Primary,DEM,primary
+2004,2004-03-16,Illinois,Primary,REP,primary
+2004,2004-05-04,Indiana,Primary,DEM,primary
+2004,2004-05-04,Indiana,Primary,REP,primary
+2004,2004-01-19,Iowa,Caucus,DEM,primary
+2004,2004-01-19,Iowa,Caucus,REP,primary
+2004,2004-03-13,Kansas,Local Unit Caucuses,DEM,primary
+2004,2004-05-18,Kentucky,Primary,DEM,primary
+2004,2004-05-18,Kentucky,Primary,REP,primary
+2004,2004-03-09,Louisiana,Primary,DEM,primary
+2004,2004-03-09,Louisiana,Primary,REP,primary
+2004,2004-02-08,Maine,Municipal Caucuses,DEM,primary
+2004,2004-03-02,Maryland,Primary,DEM,primary
+2004,2004-03-02,Maryland,Primary,REP,primary
+2004,2004-03-02,Massachusetts,Primary,DEM,primary
+2004,2004-03-02,Massachusetts,Primary,REP,primary
+2004,2004-02-07,Michigan,Party-run Primary,DEM,primary
+2004,2004-03-02,Minnesota,Precinct Caucuses,DEM,primary
+2004,2004-03-09,Mississippi,Primary,DEM,primary
+2004,2004-03-09,Mississippi,Primary,REP,primary
+2004,2004-02-03,Missouri,Primary,DEM,primary
+2004,2004-02-03,Missouri,Primary,REP,primary
+2004,2004-06-08,Montana,Primary,DEM,primary
+2004,2004-05-11,Nebraska,Primary,DEM,primary
+2004,2004-02-14,Nevada,Precinct Caucuses,DEM,primary
+2004,2004-01-27,New Hampshire,Primary,DEM,primary
+2004,2004-01-27,New Hampshire,Primary,REP,primary
+2004,2004-06-08,New Jersey,Primary,DEM,primary
+2004,2004-06-08,New Jersey,Primary,REP,primary
+2004,2004-02-03,New Mexico,Presidential Preference Caucus,DEM,primary
+2004,2004-06-01,New Mexico,Primary,REP,primary
+2004,2004-03-02,New York,Primary,DEM,primary
+2004,2004-03-02,New York,Primary,REP,primary
+2004,2004-02-03,North Dakota,Precinct Caucuses,DEM,primary
+2004,2004-03-02,Ohio,Primary,DEM,primary
+2004,2004-03-02,Ohio,Primary,REP,primary
+2004,2004-02-03,Oklahoma,Primary,DEM,primary
+2004,2004-02-03,Oklahoma,Primary,REP,primary
+2004,2004-05-18,Oregon,Primary,DEM,primary
+2004,2004-05-18,Oregon,Primary,REP,primary
+2004,2004-04-27,Pennsylvania,Primary,DEM,primary
+2004,2004-04-27,Pennsylvania,Primary,REP,primary
+2004,2004-03-02,Rhode Island,Primary,DEM,primary
+2004,2004-03-02,Rhode Island,Primary,REP,primary
+2004,2004-02-03,South Carolina,Party-run Primary,DEM,primary
+2004,2004-06-01,South Dakota,Primary,DEM,primary
+2004,2004-06-01,South Dakota,Primary,REP,primary
+2004,2004-02-10,Tennessee,Primary,DEM,primary
+2004,2004-02-10,Tennessee,Primary,REP,primary
+2004,2004-03-09,Texas,Primary,DEM,primary
+2004,2004-03-09,Texas,Primary,REP,primary
+2004,2004-02-24,Utah,Party Run Primary,DEM,primary
+2004,2004-03-02,Vermont,Primary,DEM,primary
+2004,2004-03-02,Vermont,Primary,REP,primary
+2004,2004-02-10,Virginia,Primary,DEM,primary
+2004,2004-02-07,Washington,Precinct Caucuses,DEM,primary
+2004,2004-05-11,West Virginia,Primary,DEM,primary
+2004,2004-05-11,West Virginia,Primary,REP,primary
+2004,2004-02-17,Wisconsin,Primary,DEM,primary
+2004,2004-02-17,Wisconsin,Primary,REP,primary
+2008,2008-02-05,Alabama,Primary,DEM,primary
+2008,2008-02-05,Alabama,Primary,REP,primary
+2008,2008-02-05,Arizona,Primary,DEM,primary
+2008,2008-02-05,Arizona,Primary,REP,primary
+2008,2008-02-05,Arkansas,Primary,DEM,primary
+2008,2008-02-05,Arkansas,Primary,REP,primary
+2008,2008-02-05,California,Primary,DEM,primary
+2008,2008-02-05,California,Primary,REP,primary
+2008,2008-02-05,Colorado,Precinct Caucus,DEM,primary
+2008,2008-02-05,Colorado,Precinct Caucuses,REP,primary
+2008,2008-02-05,Connecticut,Primary,DEM,primary
+2008,2008-02-05,Connecticut,Primary,REP,primary
+2008,2008-02-05,Delaware,Primary,DEM,primary
+2008,2008-02-05,Delaware,Primary,REP,primary
+2008,2008-02-12,District of Columbia,Primary,DEM,primary
+2008,2008-02-12,District of Columbia,Primary,REP,primary
+2008,2008-01-29,Florida,Primary,DEM,primary
+2008,2008-01-29,Florida,Primary,REP,primary
+2008,2008-02-05,Georgia,Primary,DEM,primary
+2008,2008-02-05,Georgia,Primary,REP,primary
+2008,2008-02-19,Hawaii,Precinct Caucus,DEM,primary
+2008,2008-02-05,Idaho,County Caucus,DEM,primary
+2008,2008-05-27,Idaho,Primary,REP,primary
+2008,2008-02-05,Illinois,Primary,DEM,primary
+2008,2008-02-05,Illinois,Primary,REP,primary
+2008,2008-05-06,Indiana,Primary,DEM,primary
+2008,2008-05-06,Indiana,Primary,REP,primary
+2008,2008-01-03,Iowa,Caucus,DEM,primary
+2008,2008-01-03,Iowa,Caucus,REP,primary
+2008,2008-02-09,Kansas,Caucuses,REP,primary
+2008,2008-05-20,Kentucky,Primary,DEM,primary
+2008,2008-05-20,Kentucky,Primary,REP,primary
+2008,2008-02-09,Louisiana,Primary,DEM,primary
+2008,2008-02-09,Louisiana,Primary,REP,primary
+2008,2008-02-10,Maine,Municipal Caucuses,DEM,primary
+2008,2008-02-12,Maryland,Primary,DEM,primary
+2008,2008-02-12,Maryland,Primary,REP,primary
+2008,2008-02-05,Massachusetts,Primary,DEM,primary
+2008,2008-02-05,Massachusetts,Primary,REP,primary
+2008,2008-01-15,Michigan,Primary,DEM,primary
+2008,2008-01-15,Michigan,Primary,REP,primary
+2008,2008-02-05,Minnesota,Precinct Caucuses,DEM,primary
+2008,2008-02-05,Minnesota,Precinct Caucuses / non-binding straw poll,REP,primary
+2008,2008-03-11,Mississippi,Primary,DEM,primary
+2008,2008-03-11,Mississippi,Primary,REP,primary
+2008,2008-02-05,Missouri,Primary,DEM,primary
+2008,2008-02-05,Missouri,Primary,REP,primary
+2008,2008-06-03,Montana,Primary,DEM,primary
+2008,2008-02-05,Montana,Caucus,REP,primary
+2008,2008-02-09,Nebraska,Precinct Caucus,DEM,primary
+2008,2008-01-19,Nevada,Precinct Caucuses,DEM,primary
+2008,2008-01-19,Nevada,Precinct Caucus,REP,primary
+2008,2008-01-08,New Hampshire,Primary,DEM,primary
+2008,2008-01-08,New Hampshire,Primary,REP,primary
+2008,2008-02-05,New Jersey,Primary,DEM,primary
+2008,2008-02-05,New Jersey,Primary,REP,primary
+2008,2008-02-05,New Mexico,Party-run Primary,DEM,primary
+2008,2008-06-03,New Mexico,Primary,REP,primary
+2008,2008-02-05,New York,Primary,DEM,primary
+2008,2008-02-05,New York,Primary,REP,primary
+2008,2008-05-06,North Carolina,Primary,DEM,primary
+2008,2008-05-06,North Carolina,Primary,REP,primary
+2008,2008-02-05,North Dakota,Precinct Caucuses,DEM,primary
+2008,2008-02-05,North Dakota,Caucus,REP,primary
+2008,2008-03-04,Ohio,Primary,DEM,primary
+2008,2008-03-04,Ohio,Primary,REP,primary
+2008,2008-02-05,Oklahoma,Primary,DEM,primary
+2008,2008-02-05,Oklahoma,Primary,REP,primary
+2008,2008-05-20,Oregon,Primary,DEM,primary
+2008,2008-05-20,Oregon,Primary,REP,primary
+2008,2008-04-22,Pennsylvania,Primary,DEM,primary
+2008,2008-04-22,Pennsylvania,Primary,REP,primary
+2008,2008-03-04,Rhode Island,Primary,DEM,primary
+2008,2008-03-04,Rhode Island,Primary,REP,primary
+2008,2008-01-26,South Carolina,Party-run Primary,DEM,primary
+2008,2008-01-19,South Carolina,Primary,REP,primary
+2008,2008-06-03,South Dakota,Primary,DEM,primary
+2008,2008-06-03,South Dakota,Primary,REP,primary
+2008,2008-02-05,Tennessee,Primary,DEM,primary
+2008,2008-02-05,Tennessee,Primary,REP,primary
+2008,2008-03-04,Texas,Primary,DEM,primary
+2008,2008-03-04,Texas,Primary,REP,primary
+2008,2008-02-05,Utah,Primary,DEM,primary
+2008,2008-02-05,Utah,Primary,REP,primary
+2008,2008-03-04,Vermont,Primary,DEM,primary
+2008,2008-03-04,Vermont,Primary,REP,primary
+2008,2008-02-12,Virginia,Primary,DEM,primary
+2008,2008-02-12,Virginia,Primary,REP,primary
+2008,2008-02-09,Washington,Precinct Caucuses,DEM,primary
+2008,2008-02-09,Washington,Precinct Caucuses,REP,primary
+2008,2008-02-19,Washington,Primary,REP,primary
+2008,2008-05-13,West Virginia,Primary,DEM,primary
+2008,2008-05-13,West Virginia,Primary,REP,primary
+2008,2008-02-19,Wisconsin,Primary,DEM,primary
+2008,2008-02-19,Wisconsin,Primary,REP,primary
+2008,2008-03-08,Wyoming,County Caucuses,DEM,primary
+2012,2012-03-13,Alabama,Primary,DEM,primary
+2012,2012-03-13,Alabama,Primary,REP,primary
+2012,2012-02-28,Arizona,Primary,REP,primary
+2012,2012-05-22,Arkansas,Primary,DEM,primary
+2012,2012-05-22,Arkansas,Primary,REP,primary
+2012,2012-06-05,California,Primary,DEM,primary
+2012,2012-06-05,California,Primary,REP,primary
+2012,2012-03-06,Colorado,Precinct Caucus,DEM,primary
+2012,2012-02-07,Colorado,Precinct Caucuses,REP,primary
+2012,2012-04-24,Connecticut,Primary,REP,primary
+2012,2012-04-24,Delaware,Primary,REP,primary
+2012,2012-04-03,District of Columbia,Primary,DEM,primary
+2012,2012-04-03,District of Columbia,Primary,REP,primary
+2012,2012-05-05,Florida,County Caucuses,DEM,primary
+2012,2012-01-31,Florida,Primary,REP,primary
+2012,2012-03-06,Georgia,Primary,DEM,primary
+2012,2012-03-06,Georgia,Primary,REP,primary
+2012,2012-03-07,Hawaii,Precinct Caucus,DEM,primary
+2012,2012-03-13,Hawaii,Precinct Caucuses,REP,primary
+2012,2012-04-14,Idaho,County Caucus,DEM,primary
+2012,2012-03-06,Idaho,County Caucuses,REP,primary
+2012,2012-03-20,Illinois,Primary,DEM,primary
+2012,2012-03-20,Illinois,Primary,REP,primary
+2012,2012-05-08,Indiana,Primary,DEM,primary
+2012,2012-05-08,Indiana,Primary,REP,primary
+2012,2012-01-03,Iowa,Caucus,DEM,primary
+2012,2012-01-03,Iowa,Caucus,REP,primary
+2012,2012-03-10,Kansas,Caucuses,REP,primary
+2012,2012-05-22,Kentucky,Primary,DEM,primary
+2012,2012-05-22,Kentucky,Primary,REP,primary
+2012,2012-03-24,Louisiana,Primary,DEM,primary
+2012,2012-03-24,Louisiana,Primary,REP,primary
+2012,2012-02-26,Maine,Municipal Caucuses,DEM,primary
+2012,2012-04-03,Maryland,Primary,DEM,primary
+2012,2012-04-03,Maryland,Primary,REP,primary
+2012,2012-03-06,Massachusetts,Primary,DEM,primary
+2012,2012-03-06,Massachusetts,Primary,REP,primary
+2012,2012-05-05,Michigan,Precinct Caucuses,DEM,primary
+2012,2012-02-28,Michigan,Primary,REP,primary
+2012,2012-02-07,Minnesota,Precinct Caucuses / non-binding straw poll,REP,primary
+2012,2012-03-13,Mississippi,Primary,DEM,primary
+2012,2012-03-13,Mississippi,Primary,REP,primary
+2012,2012-02-07,Missouri,Primary,DEM,primary
+2012,2012-06-05,Montana,Primary,DEM,primary
+2012,2012-04-14,Nebraska,Precinct Caucuses,DEM,primary
+2012,2012-01-21,Nevada,Non-binding Precinct Viability Caucuses,DEM,primary
+2012,2012-02-04,Nevada,Precinct Caucuses,REP,primary
+2012,2012-01-10,New Hampshire,Primary,DEM,primary
+2012,2012-01-10,New Hampshire,Primary,REP,primary
+2012,2012-06-05,New Jersey,Primary,DEM,primary
+2012,2012-06-05,New Jersey,Primary,REP,primary
+2012,2012-06-05,New Mexico,Primary,DEM,primary
+2012,2012-06-05,New Mexico,Primary,REP,primary
+2012,2012-04-24,New York,Primary,DEM,primary
+2012,2012-04-24,New York,Primary,REP,primary
+2012,2012-05-08,North Carolina,Primary,DEM,primary
+2012,2012-05-08,North Carolina,Primary,REP,primary
+2012,2012-03-06,North Dakota,Caucus,REP,primary
+2012,2012-03-06,Ohio,Primary,DEM,primary
+2012,2012-03-06,Ohio,Primary,REP,primary
+2012,2012-03-06,Oklahoma,Primary,DEM,primary
+2012,2012-03-06,Oklahoma,Primary,REP,primary
+2012,2012-05-15,Oregon,Primary,DEM,primary
+2012,2012-05-15,Oregon,Primary,REP,primary
+2012,2012-04-24,Pennsylvania,Primary,DEM,primary
+2012,2012-04-24,Pennsylvania,Primary,REP,primary
+2012,2012-04-24,Rhode Island,Primary,DEM,primary
+2012,2012-04-24,Rhode Island,Primary,REP,primary
+2012,2012-01-28,South Carolina,Presidential Primary/Precinct Reorganization meeting,DEM,primary
+2012,2012-01-21,South Carolina,Primary,REP,primary
+2012,2012-06-05,South Dakota,Primary,DEM,primary
+2012,2012-06-05,South Dakota,Primary,REP,primary
+2012,2012-03-06,Tennessee,Primary,DEM,primary
+2012,2012-03-06,Tennessee,Primary,REP,primary
+2012,2012-05-29,Texas,Primary,REP,primary
+2012,2012-03-13,Utah,Caucuses,DEM,primary
+2012,2012-06-26,Utah,Primary,REP,primary
+2012,2012-03-06,Vermont,Primary,DEM,primary
+2012,2012-03-06,Vermont,Primary,REP,primary
+2012,2012-03-06,Virginia,Primary,REP,primary
+2012,2012-04-15,Washington,Precinct Caucuses,DEM,primary
+2012,2012-03-03,Washington,Precinct Caucuses / Non-binding Straw Poll,REP,primary
+2012,2012-05-08,West Virginia,Primary,DEM,primary
+2012,2012-05-08,West Virginia,Primary,REP,primary
+2012,2012-04-03,Wisconsin,Primary,DEM,primary
+2012,2012-04-03,Wisconsin,Primary,REP,primary
+2012,2012-04-14,Wyoming,County Caucuses,DEM,primary
+2016,2016-03-01,Alabama,Primary,DEM,primary
+2016,2016-03-01,Alabama,Primary,REP,primary
+2016,2016-03-22,Arizona,Primary,DEM,primary
+2016,2016-03-22,Arizona,Primary,REP,primary
+2016,2016-03-01,Arkansas,Primary,DEM,primary
+2016,2016-03-01,Arkansas,Primary,REP,primary
+2016,2016-06-07,California,Primary,DEM,primary
+2016,2016-06-07,California,Primary,REP,primary
+2016,2016-03-01,Colorado,Precinct Caucus,DEM,primary
+2016,2016-04-26,Connecticut,Primary,DEM,primary
+2016,2016-04-26,Connecticut,Primary,REP,primary
+2016,2016-04-26,Delaware,Primary,DEM,primary
+2016,2016-04-26,Delaware,Primary,REP,primary
+2016,2016-06-14,District of Columbia,Primary,DEM,primary
+2016,2016-03-15,Florida,Primary,DEM,primary
+2016,2016-03-15,Florida,Primary,REP,primary
+2016,2016-03-01,Georgia,Primary,DEM,primary
+2016,2016-03-01,Georgia,Primary,REP,primary
+2016,2016-03-26,Hawaii,Precinct Caucus,DEM,primary
+2016,2016-03-08,Hawaii,Precinct Caucuses,REP,primary
+2016,2016-03-22,Idaho,County Caucus,DEM,primary
+2016,2016-03-08,Idaho,Primary,REP,primary
+2016,2016-03-15,Illinois,Primary,DEM,primary
+2016,2016-03-15,Illinois,Primary,REP,primary
+2016,2016-05-03,Indiana,Primary,DEM,primary
+2016,2016-05-03,Indiana,Primary,REP,primary
+2016,2016-02-01,Iowa,Precinct Caucuses,DEM,primary
+2016,2016-02-01,Iowa,Precinct Caucuses,REP,primary
+2016,2016-03-05,Kansas,Caucuses,REP,primary
+2016,2016-05-17,Kentucky,Primary,DEM,primary
+2016,2016-03-05,Kentucky,Presidential Caucuses,REP,primary
+2016,2016-03-05,Louisiana,Primary,DEM,primary
+2016,2016-03-05,Louisiana,Primary,REP,primary
+2016,2016-03-06,Maine,Municipal Caucuses,DEM,primary
+2016,2016-03-05,Maine,Municipal Caucuses,REP,primary
+2016,2016-04-26,Maryland,Primary,DEM,primary
+2016,2016-04-26,Maryland,Primary,REP,primary
+2016,2016-03-01,Massachusetts,Primary,DEM,primary
+2016,2016-03-01,Massachusetts,Primary,REP,primary
+2016,2016-03-08,Michigan,Primary,DEM,primary
+2016,2016-03-08,Michigan,Primary,REP,primary
+2016,2016-03-01,Minnesota,Precinct Caucuses,DEM,primary
+2016,2016-03-01,Minnesota,Precinct Caucuses,REP,primary
+2016,2016-03-08,Mississippi,Primary,DEM,primary
+2016,2016-03-08,Mississippi,Primary,REP,primary
+2016,2016-03-15,Missouri,Primary,DEM,primary
+2016,2016-03-15,Missouri,Primary,REP,primary
+2016,2016-06-07,Montana,Primary,DEM,primary
+2016,2016-06-07,Montana,Primary,REP,primary
+2016,2016-03-05,Nebraska,Precinct Caucuses,DEM,primary
+2016,2016-05-10,Nebraska,Presidential Primary,REP,primary
+2016,2016-02-20,Nevada,Precinct Viability Caucuses,DEM,primary
+2016,2016-02-23,Nevada,Precinct Caucuses,REP,primary
+2016,2016-02-09,New Hampshire,Primary,DEM,primary
+2016,2016-02-09,New Hampshire,Primary,REP,primary
+2016,2016-06-07,New Jersey,Primary,DEM,primary
+2016,2016-06-07,New Jersey,Primary,REP,primary
+2016,2016-06-07,New Mexico,Primary,DEM,primary
+2016,2016-06-07,New Mexico,Primary,REP,primary
+2016,2016-04-19,New York,Primary,DEM,primary
+2016,2016-04-19,New York,Primary,REP,primary
+2016,2016-03-15,North Carolina,Primary,DEM,primary
+2016,2016-03-15,North Carolina,Primary,REP,primary
+2016,2016-03-15,Ohio,Primary,DEM,primary
+2016,2016-03-15,Ohio,Primary,REP,primary
+2016,2016-03-01,Oklahoma,Primary,DEM,primary
+2016,2016-03-01,Oklahoma,Primary,REP,primary
+2016,2016-05-17,Oregon,Primary,DEM,primary
+2016,2016-05-17,Oregon,Primary,REP,primary
+2016,2016-04-26,Pennsylvania,Primary,DEM,primary
+2016,2016-04-26,Pennsylvania,Primary,REP,primary
+2016,2016-04-26,Rhode Island,Primary,DEM,primary
+2016,2016-04-26,Rhode Island,Primary,REP,primary
+2016,2016-02-27,South Carolina,Primary,DEM,primary
+2016,2016-02-20,South Carolina,Primary,REP,primary
+2016,2016-06-07,South Dakota,Primary,DEM,primary
+2016,2016-06-07,South Dakota,Primary,REP,primary
+2016,2016-03-01,Tennessee,Primary,DEM,primary
+2016,2016-03-01,Tennessee,Primary,REP,primary
+2016,2016-03-01,Texas,Primary,DEM,primary
+2016,2016-03-01,Texas,Primary,REP,primary
+2016,2016-03-22,Utah,Neighborhood Caucuses,DEM,primary
+2016,2016-03-22,Utah,Precinct Caucuses,REP,primary
+2016,2016-03-01,Vermont,Primary,DEM,primary
+2016,2016-03-01,Vermont,Primary,REP,primary
+2016,2016-03-01,Virginia,Primary,DEM,primary
+2016,2016-03-01,Virginia,Primary,REP,primary
+2016,2016-03-26,Washington,Precinct Caucuses,DEM,primary
+2016,2016-05-24,Washington,Primary,REP,primary
+2016,2016-05-10,West Virginia,Primary,DEM,primary
+2016,2016-05-10,West Virginia,Primary,REP,primary
+2016,2016-04-05,Wisconsin,Primary,DEM,primary
+2016,2016-04-05,Wisconsin,Primary,REP,primary
+2016,2016-04-09,Wyoming,County Caucuses,DEM,primary
