@@ -1,0 +1,580 @@
+year,date,state,event,party,type
+2004,2004-06-01,Alabama,Primary,DEM,primary
+2004,2004-06-01,Alabama,Primary,REP,primary
+2004,2004-03-20,Alaska,Precinct Caucuses and District Caucuses,DEM,primary
+2004,2004-05-22 2004-05-22,Alaska,Convention - Thursday 20 May,REP,primary
+2004,2004-03-08,American Samoa,Territorial Convention,DEM,primary
+2004,2004-02-28,American Samoa,Territorial Caucus,REP,primary
+2004,2004-02-03,Arizona,Primary,DEM,primary
+2004,2004-05-08,Arizona,District Caucus and State Convention,REP,primary
+2004,2004-05-18,Arkansas,Primary,DEM,primary
+2004,2004-05-18,Arkansas,Primary,REP,primary
+2004,2004-03-02,California,Primary,DEM,primary
+2004,2004-03-02,California,Primary,REP,primary
+2004,2004-04-13,Colorado,Precinct Caucus,DEM,primary
+2004,2004-05-21 2004-05-21,Colorado,District Conventions - Friday 14 May,DEM,primary
+2004,2004-05-22,Colorado,State Convention,DEM,primary
+2004,2004-06-05 2004-06-05,Colorado,District Conventions - Saturday 22 May,REP,primary
+2004,2004-06-05,Colorado,State Convention,REP,primary
+2004,2004-03-02,Connecticut,Primary,DEM,primary
+2004,2004-03-02,Connecticut,Primary,REP,primary
+2004,2004-02-03,Delaware,Primary,DEM,primary
+2004,2004-05-15 2004-05-15,Delaware,State Convention - Friday 14 May,REP,primary
+2004,2004-02-09 2004-02-09,Democrats Abroad,Local Caucuses - Friday 6 February,DEM,primary
+2004,2004-02-23 2004-02-23,Democrats Abroad,Country Caucuses - Friday 20 February,DEM,primary
+2004,2004-03-27,Democrats Abroad,Regional Caucuses,DEM,primary
+2004,2004-03-28,Democrats Abroad,Global Convention,DEM,primary
+2004,2004-01-13,District of Columbia,Primary,DEM,primary
+2004,2004-02-14,District of Columbia,Ward Caucus,DEM,primary
+2004,2004-04-29,District of Columbia,State Committee,DEM,primary
+2004,2004-02-10,District of Columbia,Caucus,REP,primary
+2004,2004-03-09,Florida,Primary,DEM,primary
+2004,2004-03-09,Florida,Primary,REP,primary
+2004,2004-03-02,Georgia,Primary,DEM,primary
+2004,2004-03-02,Georgia,Primary,REP,primary
+2004,2004-04-24,Guam,Territorial Convention,DEM,primary
+2004,2004-02-21,Guam,Territorial Caucus,REP,primary
+2004,2004-02-24,Hawaii,Precinct Caucus,DEM,primary
+2004,2004-05-30,Hawaii,State Convention,DEM,primary
+2004,2004-06-06 2004-06-06,Hawaii,State Convention - Friday 4 June,REP,primary
+2004,2004-02-24,Idaho,County Caucus,DEM,primary
+2004,2004-06-20 2004-06-20,Idaho,State Convention - Thursday 17 June,DEM,primary
+2004,2004-05-25,Idaho,Primary,REP,primary
+2004,2004-03-16,Illinois,Primary,DEM,primary
+2004,2004-03-16,Illinois,Primary,REP,primary
+2004,2004-05-15 2004-05-15,Illinois,Convention - Friday 14 May,REP,primary
+2004,2004-05-04,Indiana,Primary,DEM,primary
+2004,2004-05-04,Indiana,Primary,REP,primary
+2004,2004-06-08 2004-06-08,Indiana,State Convention - Monday 7 June,REP,primary
+2004,2004-01-19,Iowa,Caucus,DEM,primary
+2004,2004-04-24,Iowa,District Conventions,DEM,primary
+2004,2004-06-26,Iowa,State Convention,DEM,primary
+2004,2004-01-19,Iowa,Caucus,REP,primary
+2004,2004-06-11,Iowa,State Convention District Caucuses,REP,primary
+2004,2004-06-12,Iowa,State Convention,REP,primary
+2004,2004-03-13,Kansas,Local Unit Caucuses,DEM,primary
+2004,2004-04-03,Kansas,District Caucuses,DEM,primary
+2004,2004-04-24,Kansas,State Convention,DEM,primary
+2004,2004-06-15 2004-06-15,Kansas,Caucus/Convention - Monday 1 March,REP,primary
+2004,2004-05-18,Kentucky,Primary,DEM,primary
+2004,2004-05-18,Kentucky,Primary,REP,primary
+2004,2004-03-09,Louisiana,Primary,DEM,primary
+2004,2004-03-09,Louisiana,Primary,REP,primary
+2004,2004-02-08,Maine,Municipal Caucuses,DEM,primary
+2004,2004-05-22,Maine,State Convention.,DEM,primary
+2004,2004-05-15,Maine,District Caucuses and State Convention,REP,primary
+2004,2004-03-02,Maryland,Primary,DEM,primary
+2004,2004-03-02,Maryland,Primary,REP,primary
+2004,2004-03-02,Massachusetts,Primary,DEM,primary
+2004,2004-03-02,Massachusetts,Primary,REP,primary
+2004,2004-02-07,Michigan,Party-run Primary,DEM,primary
+2004,2004-05-15,Michigan,State Central Committee,DEM,primary
+2004,2004-05-22 2004-05-22,Michigan,Congressional District Caucuses and State Convention - Friday 21 May,REP,primary
+2004,2004-03-02,Minnesota,Precinct Caucuses,DEM,primary
+2004,2004-05-22 2004-05-22,Minnesota,District Conventions - Saturday 1 May,REP,primary
+2004,2004-06-05,Minnesota,State Convention,REP,primary
+2004,2004-03-09,Mississippi,Primary,DEM,primary
+2004,2004-03-09,Mississippi,Primary,REP,primary
+2004,2004-02-03,Missouri,Primary,DEM,primary
+2004,2004-02-03,Missouri,Primary,REP,primary
+2004,2004-06-08,Montana,Primary,DEM,primary
+2004,2004-06-12 2004-06-12,Montana,State Convention - Thursday 10 June,REP,primary
+2004,2004-05-11,Nebraska,Primary,DEM,primary
+2004,2004-06-26,Nebraska,State Convention,REP,primary
+2004,2004-02-14,Nevada,Precinct Caucuses,DEM,primary
+2004,2004-04-18 2004-04-18,Nevada,State Convention - Friday 16 April,DEM,primary
+2004,2004-05-01 2004-05-01,Nevada,District Meetings and State Convention - Thursday 29 April,REP,primary
+2004,2004-01-27,New Hampshire,Primary,DEM,primary
+2004,2004-01-27,New Hampshire,Primary,REP,primary
+2004,2004-06-08,New Jersey,Primary,DEM,primary
+2004,2004-06-08,New Jersey,Primary,REP,primary
+2004,2004-02-03,New Mexico,Presidential Preference Caucus,DEM,primary
+2004,2004-06-01,New Mexico,Primary,REP,primary
+2004,2004-03-02,New York,Primary,DEM,primary
+2004,2004-03-02,New York,Primary,REP,primary
+2004,2004-05-19 2004-05-19,New York,State Committee - Tuesday 18 May,REP,primary
+2004,2004-04-17,North Carolina,County Caucuses and Conventions,DEM,primary
+2004,2004-05-22,North Carolina,District Conventions,DEM,primary
+2004,2004-04-24 2004-04-24,North Carolina,District Conventions - Saturday 20 March,REP,primary
+2004,2004-05-23 2004-05-23,North Carolina,State Convention - Thursday 20 May,REP,primary
+2004,2004-02-03,North Dakota,Precinct Caucuses,DEM,primary
+2004,2004-04-04 2004-04-04,North Dakota,State Convention - Friday 2 April,DEM,primary
+2004,2004-04-04 2004-04-04,North Dakota,State Convention - Thursday 1 April,REP,primary
+2004,2004-03-02,Ohio,Primary,DEM,primary
+2004,2004-03-02,Ohio,Primary,REP,primary
+2004,2004-02-03,Oklahoma,Primary,DEM,primary
+2004,2004-02-03,Oklahoma,Primary,REP,primary
+2004,2004-05-18,Oregon,Primary,DEM,primary
+2004,2004-05-18,Oregon,Primary,REP,primary
+2004,2004-04-27,Pennsylvania,Primary,DEM,primary
+2004,2004-04-27,Pennsylvania,Primary,REP,primary
+2004,2004-06-05 2004-06-05,Pennsylvania,State Committee - Friday 4 June,REP,primary
+2004,2004-06-06,Puerto Rico,Caucus,DEM,primary
+2004,2004-02-29,Puerto Rico,Primary,REP,primary
+2004,2004-03-02,Rhode Island,Primary,DEM,primary
+2004,2004-03-02,Rhode Island,Primary,REP,primary
+2004,2004-02-03,South Carolina,Party-run Primary,DEM,primary
+2004,2004-02-21 2004-02-21,South Carolina,District Conventions - Saturday 17 January,REP,primary
+2004,2004-06-01,South Dakota,Primary,DEM,primary
+2004,2004-06-01,South Dakota,Primary,REP,primary
+2004,2004-02-10,Tennessee,Primary,DEM,primary
+2004,2004-02-10,Tennessee,Primary,REP,primary
+2004,2004-03-09,Texas,Primary,DEM,primary
+2004,2004-06-19,Texas,State Convention,DEM,primary
+2004,2004-03-09,Texas,Primary,REP,primary
+2004,2004-02-24,Utah,Party Run Primary,DEM,primary
+2004,2004-05-08,Utah,State Convention,REP,primary
+2004,2004-03-02,Vermont,Primary,DEM,primary
+2004,2004-03-02,Vermont,Primary,REP,primary
+2004,2004-04-17,Virgin Islands,Territorial Convention,DEM,primary
+2004,2004-02-28,Virgin Islands,Territorial Caucus,REP,primary
+2004,2004-02-10,Virginia,Primary,DEM,primary
+2004,2004-06-05,Virginia,State Convention,DEM,primary
+2004,2004-05-22 2004-05-22,Virginia,District Conventions - Friday 7 May,REP,primary
+2004,2004-06-05 2004-06-05,Virginia,State Conventions - Friday 4 June,REP,primary
+2004,2004-02-07,Washington,Precinct Caucuses,DEM,primary
+2004,2004-05-29,Washington,Congressional District Caucuses,DEM,primary
+2004,2004-06-05,Washington,State Convention,DEM,primary
+2004,2004-05-29 2004-05-29,Washington,State Convention - Friday 28 May,REP,primary
+2004,2004-05-11,West Virginia,Primary,DEM,primary
+2004,2004-05-11,West Virginia,Primary,REP,primary
+2004,2004-02-17,Wisconsin,Primary,DEM,primary
+2004,2004-02-17,Wisconsin,Primary,REP,primary
+2004,2004-03-20 2004-03-20,Wyoming,County Caucuses - Saturday 6 March,DEM,primary
+2004,2004-05-15 2004-05-15,Wyoming,State Convention - Friday 14 May,DEM,primary
+2004,2004-02-29 2004-02-29,Wyoming,County Conventions - Tuesday 3 February,REP,primary
+2004,2004-05-08 2004-05-08,Wyoming,Convention - Thursday 6 May,REP,primary
+2008,2008-02-05,Alabama,Primary,DEM,primary
+2008,2008-02-05,Alabama,Primary,REP,primary
+2008,2008-02-05,Alaska,Precinct / House District Caucuses,DEM,primary
+2008,2008-05-24,Alaska,State Party Convention,DEM,primary
+2008,2008-02-09 2008-02-09,Alaska,District Conventions - Tuesday 5 February,REP,primary
+2008,2008-03-15 2008-03-15,Alaska,Convention - Thursday 13 March,REP,primary
+2008,2008-02-05,American Samoa,Territorial Caucus,DEM,primary
+2008,2008-02-23,American Samoa,Territorial Caucus,REP,primary
+2008,2008-02-05,Arizona,Primary,DEM,primary
+2008,2008-02-05,Arizona,Primary,REP,primary
+2008,2008-02-05,Arkansas,Primary,DEM,primary
+2008,2008-03-08,Arkansas,Special State Convention,DEM,primary
+2008,2008-02-05,Arkansas,Primary,REP,primary
+2008,2008-02-05,California,Primary,DEM,primary
+2008,2008-05-18,California,Delegation Meeting,DEM,primary
+2008,2008-02-05,California,Primary,REP,primary
+2008,2008-02-05,Colorado,Precinct Caucus,DEM,primary
+2008,2008-05-16 2008-05-16,Colorado,District Conventions - Saturday 3 May,DEM,primary
+2008,2008-05-17,Colorado,State Convention,DEM,primary
+2008,2008-02-05,Colorado,Precinct Caucuses,REP,primary
+2008,2008-06-07 2008-06-07,Colorado,District Conventions - Saturday 24 May,REP,primary
+2008,2008-05-31,Colorado,State Convention,REP,primary
+2008,2008-02-05,Connecticut,Primary,DEM,primary
+2008,2008-02-05,Connecticut,Primary,REP,primary
+2008,2008-02-05,Delaware,Primary,DEM,primary
+2008,2008-02-05,Delaware,Primary,REP,primary
+2008,2008-02-12 2008-02-12,Democrats Abroad,Local Caucuses / Primary - Tuesday 5 February,DEM,primary
+2008,2008-04-11 2008-04-11,Democrats Abroad,Regional Caucuses - Saturday 15 March,DEM,primary
+2008,2008-04-12,Democrats Abroad,Global Convention,DEM,primary
+2008,2008-02-12,District of Columbia,Primary,DEM,primary
+2008,2008-04-03,District of Columbia,State Party Committee,DEM,primary
+2008,2008-02-12,District of Columbia,Primary,REP,primary
+2008,2008-01-29,Florida,Primary,DEM,primary
+2008,2008-01-29,Florida,Primary,REP,primary
+2008,2008-02-05,Georgia,Primary,DEM,primary
+2008,2008-02-05,Georgia,Primary,REP,primary
+2008,2008-05-03,Guam,Territorial Caucus (Party run primary),DEM,primary
+2008,2008-03-08,Guam,Territorial Caucus,REP,primary
+2008,2008-02-19,Hawaii,Precinct Caucus,DEM,primary
+2008,2008-05-18 2008-05-18,Hawaii,State Convention - Friday 16 May,REP,primary
+2008,2008-02-05,Idaho,County Caucus,DEM,primary
+2008,2008-06-14 2008-06-14,Idaho,State Convention - Thursday 12 June,DEM,primary
+2008,2008-05-27,Idaho,Primary,REP,primary
+2008,2008-02-05,Illinois,Primary,DEM,primary
+2008,2008-02-05,Illinois,Primary,REP,primary
+2008,2008-06-07,Illinois,Convention,REP,primary
+2008,2008-05-06,Indiana,Primary,DEM,primary
+2008,2008-05-06,Indiana,Primary,REP,primary
+2008,2008-06-02 2008-06-02,Indiana,State Convention - Sunday 1 June,REP,primary
+2008,2008-01-03,Iowa,Caucus,DEM,primary
+2008,2008-04-26,Iowa,District Conventions,DEM,primary
+2008,2008-06-28,Iowa,State Convention,DEM,primary
+2008,2008-01-03,Iowa,Caucus,REP,primary
+2008,2008-07-12 2008-07-12,Iowa,State Convention - Friday 11 July,REP,primary
+2008,2008-02-05,Kansas,Local Unit Conventions,DEM,primary
+2008,2008-05-17,Kansas,State Convention,DEM,primary
+2008,2008-02-09,Kansas,Caucuses,REP,primary
+2008,2008-05-22,Kansas,State Party Committee Meeting,REP,primary
+2008,2008-05-20,Kentucky,Primary,DEM,primary
+2008,2008-05-20,Kentucky,Primary,REP,primary
+2008,2008-02-09,Louisiana,Primary,DEM,primary
+2008,2008-02-09,Louisiana,Primary,REP,primary
+2008,2008-02-10,Maine,Municipal Caucuses,DEM,primary
+2008,2008-06-01 2008-06-01,Maine,State Convention. - Saturday 31 May,DEM,primary
+2008,2008-02-03 2008-02-03,Maine,Municipal Caucuses - Friday 1 February,REP,primary
+2008,2008-05-03,Maine,District Caucuses and State Convention,REP,primary
+2008,2008-02-12,Maryland,Primary,DEM,primary
+2008,2008-05-01,Maryland,State Democratic Central Committee Meeting,DEM,primary
+2008,2008-02-12,Maryland,Primary,REP,primary
+2008,2008-02-05,Massachusetts,Primary,DEM,primary
+2008,2008-02-05,Massachusetts,Primary,REP,primary
+2008,2008-01-15,Michigan,Primary,DEM,primary
+2008,2008-06-14,Michigan,State Central Committee,DEM,primary
+2008,2008-01-15,Michigan,Primary,REP,primary
+2008,2008-02-05,Minnesota,Precinct Caucuses,DEM,primary
+2008,2008-02-05,Minnesota,Precinct Caucuses / non-binding straw poll,REP,primary
+2008,2008-04-19 2008-04-19,Minnesota,District Conventions - Saturday 29 March,REP,primary
+2008,2008-05-31 2008-05-31,Minnesota,State Convention - Thursday 29 May,REP,primary
+2008,2008-03-11,Mississippi,Primary,DEM,primary
+2008,2008-03-11,Mississippi,Primary,REP,primary
+2008,2008-02-05,Missouri,Primary,DEM,primary
+2008,2008-04-05,Missouri,State Committee,DEM,primary
+2008,2008-02-05,Missouri,Primary,REP,primary
+2008,2008-06-03,Montana,Primary,DEM,primary
+2008,2008-02-05,Montana,Caucus,REP,primary
+2008,2008-02-09,Nebraska,Precinct Caucus,DEM,primary
+2008,2008-06-22 2008-06-22,Nebraska,State Convention - Friday 20 June,DEM,primary
+2008,2008-07-12,Nebraska,State Convention,REP,primary
+2008,2008-01-19,Nevada,Precinct Caucuses,DEM,primary
+2008,2008-05-18 2008-05-18,Nevada,State Convention - Saturday 17 May,DEM,primary
+2008,2008-01-19,Nevada,Precinct Caucus,REP,primary
+2008,2008-04-26,Nevada,District Meetings and State Convention,REP,primary
+2008,2008-07-26,Nevada,State Convention,REP,primary
+2008,2008-01-08,New Hampshire,Primary,DEM,primary
+2008,2008-01-08,New Hampshire,Primary,REP,primary
+2008,2008-02-05,New Jersey,Primary,DEM,primary
+2008,2008-02-05,New Jersey,Primary,REP,primary
+2008,2008-02-05,New Mexico,Party-run Primary,DEM,primary
+2008,2008-06-03,New Mexico,Primary,REP,primary
+2008,2008-06-14,New Mexico,State Republican Convention,REP,primary
+2008,2008-02-05,New York,Primary,DEM,primary
+2008,2008-02-05,New York,Primary,REP,primary
+2008,2008-05-21 2008-05-21,New York,State Committee - Tuesday 20 May,REP,primary
+2008,2008-05-06,North Carolina,Primary,DEM,primary
+2008,2008-05-06,North Carolina,Primary,REP,primary
+2008,2008-02-05,North Dakota,Precinct Caucuses,DEM,primary
+2008,2008-02-05,North Dakota,Caucus,REP,primary
+2008,2008-02-23,Northern Marianas,Commonwealth Convention,REP,primary
+2008,2008-03-04,Ohio,Primary,DEM,primary
+2008,2008-03-04,Ohio,Primary,REP,primary
+2008,2008-02-05,Oklahoma,Primary,DEM,primary
+2008,2008-02-05,Oklahoma,Primary,REP,primary
+2008,2008-05-20,Oregon,Primary,DEM,primary
+2008,2008-05-20,Oregon,Primary,REP,primary
+2008,2008-04-22,Pennsylvania,Primary,DEM,primary
+2008,2008-04-22,Pennsylvania,Primary,REP,primary
+2008,2008-06-06,Pennsylvania,Summer Meeting,REP,primary
+2008,2008-06-01,Puerto Rico,Primary,DEM,primary
+2008,2008-02-24,Puerto Rico,Territorial Caucus,REP,primary
+2008,2008-03-04,Rhode Island,Primary,DEM,primary
+2008,2008-03-04,Rhode Island,Primary,REP,primary
+2008,2008-01-26,South Carolina,Party-run Primary,DEM,primary
+2008,2008-01-19,South Carolina,Primary,REP,primary
+2008,2008-06-03,South Dakota,Primary,DEM,primary
+2008,2008-06-03,South Dakota,Primary,REP,primary
+2008,2008-02-05,Tennessee,Primary,DEM,primary
+2008,2008-02-05,Tennessee,Primary,REP,primary
+2008,2008-03-01,Tennessee,State Executive Committee,REP,primary
+2008,2008-03-04,Texas,Primary,DEM,primary
+2008,2008-06-07 2008-06-07,Texas,State Convention - Friday 6 June,DEM,primary
+2008,2008-03-04,Texas,Primary,REP,primary
+2008,2008-02-05,Utah,Primary,DEM,primary
+2008,2008-02-05,Utah,Primary,REP,primary
+2008,2008-03-04,Vermont,Primary,DEM,primary
+2008,2008-03-04,Vermont,Primary,REP,primary
+2008,2008-02-09,Virgin Islands,Territorial Convention,DEM,primary
+2008,2008-04-05,Virgin Islands,Territorial Caucus,REP,primary
+2008,2008-02-12,Virginia,Primary,DEM,primary
+2008,2008-02-12,Virginia,Primary,REP,primary
+2008,2008-02-09,Washington,Precinct Caucuses,DEM,primary
+2008,2008-05-17,Washington,Congressional District Caucuses,DEM,primary
+2008,2008-06-15 2008-06-15,Washington,State Convention - Friday 13 June,DEM,primary
+2008,2008-02-09,Washington,Precinct Caucuses,REP,primary
+2008,2008-02-19,Washington,Primary,REP,primary
+2008,2008-05-31 2008-05-31,Washington,State Convention - Thursday 29 May,REP,primary
+2008,2008-05-13,West Virginia,Primary,DEM,primary
+2008,2008-02-05,West Virginia,State Presidential Convention,REP,primary
+2008,2008-05-13,West Virginia,Primary,REP,primary
+2008,2008-02-19,Wisconsin,Primary,DEM,primary
+2008,2008-02-19,Wisconsin,Primary,REP,primary
+2008,2008-03-08,Wyoming,County Caucuses,DEM,primary
+2008,2008-05-24,Wyoming,State Convention,DEM,primary
+2008,2008-01-05,Wyoming,County Conventions,REP,primary
+2008,2008-05-31 2008-05-31,Wyoming,Convention - Friday 30 May,REP,primary
+2012,2012-03-13,Alabama,Primary,DEM,primary
+2012,2012-03-13,Alabama,Primary,REP,primary
+2012,2012-04-14 2012-04-14,Alaska,Precinct / House District Caucuses - Tuesday 10 April,DEM,primary
+2012,2012-05-13 2012-05-13,Alaska,State Party Convention - Friday 11 May,DEM,primary
+2012,2012-03-24 2012-03-24,Alaska,District Conventions - Tuesday 6 March,REP,primary
+2012,2012-04-28 2012-04-28,Alaska,State Convention - Thursday 26 April,REP,primary
+2012,2012-03-06,American Samoa,Territorial Caucus,DEM,primary
+2012,2012-03-13,American Samoa,Territorial Caucus,REP,primary
+2012,2012-03-31,Arizona,Congressional District Caucuses,DEM,primary
+2012,2012-02-28,Arizona,Primary,REP,primary
+2012,2012-05-22,Arkansas,Primary,DEM,primary
+2012,2012-06-16,Arkansas,Special State Convention,DEM,primary
+2012,2012-05-22,Arkansas,Primary,REP,primary
+2012,2012-06-05,California,Primary,DEM,primary
+2012,2012-06-24,California,Delegation Meeting,DEM,primary
+2012,2012-06-05,California,Primary,REP,primary
+2012,2012-03-06,Colorado,Precinct Caucus,DEM,primary
+2012,2012-06-01 2012-06-01,Colorado,District Conventions - Saturday 19 May,DEM,primary
+2012,2012-06-02,Colorado,State Convention,DEM,primary
+2012,2012-02-07,Colorado,Precinct Caucuses,REP,primary
+2012,2012-04-13 2012-04-13,Colorado,District Conventions - Thursday 12 April,REP,primary
+2012,2012-04-14,Colorado,State Convention,REP,primary
+2012,2012-04-24 2012-04-24,Connecticut,Primary (only 1 candidate - no primary will be held),DEM,primary
+2012,2012-04-24,Connecticut,Primary,REP,primary
+2012,2012-05-30 2012-05-30,Delaware,Representative District Caucuses / Party-run Primary - Tuesday 1 May,DEM,primary
+2012,2012-04-24,Delaware,Primary,REP,primary
+2012,2012-05-06 2012-05-06,Democrats Abroad,Global Primary - Tuesday 1 May,DEM,primary
+2012,2012-05-20 2012-05-20,Democrats Abroad,Global Convention - Saturday 19 May,DEM,primary
+2012,2012-04-03,District of Columbia,Primary,DEM,primary
+2012,2012-05-03,District of Columbia,State Party Committee,DEM,primary
+2012,2012-04-03,District of Columbia,Primary,REP,primary
+2012,2012-05-05,Florida,County Caucuses,DEM,primary
+2012,2012-01-31,Florida,Primary,REP,primary
+2012,2012-03-06,Georgia,Primary,DEM,primary
+2012,2012-03-06,Georgia,Primary,REP,primary
+2012,2012-05-05,Guam,Territorial Caucus (Party run primary),DEM,primary
+2012,2012-03-10,Guam,Territorial Caucus,REP,primary
+2012,2012-03-07,Hawaii,Precinct Caucus,DEM,primary
+2012,2012-03-13,Hawaii,Precinct Caucuses,REP,primary
+2012,2012-04-14,Idaho,County Caucus,DEM,primary
+2012,2012-06-16 2012-06-16,Idaho,State Convention - Thursday 14 June,DEM,primary
+2012,2012-03-06,Idaho,County Caucuses,REP,primary
+2012,2012-03-20,Illinois,Primary,DEM,primary
+2012,2012-03-20,Illinois,Primary,REP,primary
+2012,2012-06-09 2012-06-09,Illinois,Convention - Friday 8 June,REP,primary
+2012,2012-05-08,Indiana,Primary,DEM,primary
+2012,2012-05-08,Indiana,Primary,REP,primary
+2012,2012-06-09 2012-06-09,Indiana,State Convention - Friday 8 June,REP,primary
+2012,2012-01-03,Iowa,Caucus,DEM,primary
+2012,2012-04-28,Iowa,District Conventions,DEM,primary
+2012,2012-06-16,Iowa,State Convention,DEM,primary
+2012,2012-01-03,Iowa,Caucus,REP,primary
+2012,2012-06-16,Iowa,State Convention,REP,primary
+2012,2012-04-14,Kansas,Local Unit Conventions,DEM,primary
+2012,2012-06-09,Kansas,State Convention,DEM,primary
+2012,2012-03-10,Kansas,Caucuses,REP,primary
+2012,2012-04-23 2012-04-23,Kansas,Congressional District Conventions - Friday 30 March,REP,primary
+2012,2012-04-28,Kansas,State Party Committee Meeting,REP,primary
+2012,2012-05-22,Kentucky,Primary,DEM,primary
+2012,2012-05-22,Kentucky,Primary,REP,primary
+2012,2012-03-24,Louisiana,Primary,DEM,primary
+2012,2012-03-24,Louisiana,Primary,REP,primary
+2012,2012-02-26,Maine,Municipal Caucuses,DEM,primary
+2012,2012-03-31 2012-03-31,Maine,County Conventions - Tuesday 6 March,DEM,primary
+2012,2012-06-03 2012-06-03,Maine,State Convention. - Saturday 2 June,DEM,primary
+2012,2012-03-03 2012-03-03,Maine,Municipal Caucuses / non-binding straw poll - Sunday 29 January,REP,primary
+2012,2012-05-06 2012-05-06,Maine,District Caucuses and State Convention - Saturday 5 May,REP,primary
+2012,2012-04-03,Maryland,Primary,DEM,primary
+2012,2012-05-12,Maryland,State Democratic Central Committee Meeting,DEM,primary
+2012,2012-04-03,Maryland,Primary,REP,primary
+2012,2012-03-06,Massachusetts,Primary,DEM,primary
+2012,2012-03-06,Massachusetts,Primary,REP,primary
+2012,2012-05-05,Michigan,Precinct Caucuses,DEM,primary
+2012,2012-02-28,Michigan,Primary,REP,primary
+2012,2012-04-08 2012-04-08,Minnesota,Organizing Unit Conventions - Tuesday 6 March,DEM,primary
+2012,2012-02-07,Minnesota,Precinct Caucuses / non-binding straw poll,REP,primary
+2012,2012-04-22 2012-04-22,Minnesota,District Conventions - Saturday 31 March,REP,primary
+2012,2012-05-19 2012-05-19,Minnesota,State Convention - Friday 18 May,REP,primary
+2012,2012-03-13,Mississippi,Primary,DEM,primary
+2012,2012-03-13,Mississippi,Primary,REP,primary
+2012,2012-02-07,Missouri,Primary,DEM,primary
+2012,2012-03-24 2012-03-24,Missouri,County Caucuses - Thursday 15 March,REP,primary
+2012,2012-06-02,Missouri,State Convention,REP,primary
+2012,2012-06-05,Montana,Primary,DEM,primary
+2012,2012-06-16 2012-06-16,Montana,State Convention - Thursday 14 June,REP,primary
+2012,2012-04-14,Nebraska,Precinct Caucuses,DEM,primary
+2012,2012-06-23,Nebraska,State Convention,DEM,primary
+2012,2012-07-14,Nebraska,State Convention,REP,primary
+2012,2012-01-21,Nevada,Non-binding Precinct Viability Caucuses,DEM,primary
+2012,2012-06-10 2012-06-10,Nevada,State Convention - Saturday 9 June,DEM,primary
+2012,2012-02-04,Nevada,Precinct Caucuses,REP,primary
+2012,2012-05-06 2012-05-06,Nevada,State Convention - Saturday 5 May,REP,primary
+2012,2012-01-10,New Hampshire,Primary,DEM,primary
+2012,2012-01-10,New Hampshire,Primary,REP,primary
+2012,2012-06-05,New Jersey,Primary,DEM,primary
+2012,2012-06-05,New Jersey,Primary,REP,primary
+2012,2012-06-05,New Mexico,Primary,DEM,primary
+2012,2012-06-05,New Mexico,Primary,REP,primary
+2012,2012-06-09,New Mexico,State Republican Convention,REP,primary
+2012,2012-04-24,New York,Primary,DEM,primary
+2012,2012-04-24,New York,Primary,REP,primary
+2012,2012-05-31 2012-05-31,New York,State Committee - Wednesday 30 May,REP,primary
+2012,2012-05-08,North Carolina,Primary,DEM,primary
+2012,2012-05-08,North Carolina,Primary,REP,primary
+2012,2012-06-05,North Dakota,Legislative District Caucus,DEM,primary
+2012,2012-06-16,North Dakota,State Delegate Selection Meeting,DEM,primary
+2012,2012-03-06,North Dakota,Caucus,REP,primary
+2012,2012-03-10,Northern Marianas,Commonwealth Convention,REP,primary
+2012,2012-03-06,Ohio,Primary,DEM,primary
+2012,2012-03-06,Ohio,Primary,REP,primary
+2012,2012-03-06,Oklahoma,Primary,DEM,primary
+2012,2012-03-06,Oklahoma,Primary,REP,primary
+2012,2012-05-15,Oregon,Primary,DEM,primary
+2012,2012-05-15,Oregon,Primary,REP,primary
+2012,2012-04-24,Pennsylvania,Primary,DEM,primary
+2012,2012-04-24,Pennsylvania,Primary,REP,primary
+2012,2012-06-10,Pennsylvania,Summer Meeting,REP,primary
+2012,2012-06-03,Puerto Rico,Senate District Caucuses,DEM,primary
+2012,2012-03-18,Puerto Rico,Primary,REP,primary
+2012,2012-04-24,Rhode Island,Primary,DEM,primary
+2012,2012-04-24,Rhode Island,Primary,REP,primary
+2012,2012-01-28,South Carolina,Presidential Primary/Precinct Reorganization meeting,DEM,primary
+2012,2012-01-21,South Carolina,Primary,REP,primary
+2012,2012-06-05,South Dakota,Primary,DEM,primary
+2012,2012-06-05,South Dakota,Primary,REP,primary
+2012,2012-03-06,Tennessee,Primary,DEM,primary
+2012,2012-03-06,Tennessee,Primary,REP,primary
+2012,2012-04-07,Tennessee,State Executive Committee,REP,primary
+2012,2012-04-21,Texas,County/Senatorial District Conventions,DEM,primary
+2012,2012-06-09 2012-06-09,Texas,State Convention - Friday 8 June,DEM,primary
+2012,2012-05-29,Texas,Primary,REP,primary
+2012,2012-03-13,Utah,Caucuses,DEM,primary
+2012,2012-06-26,Utah,Primary,REP,primary
+2012,2012-03-06,Vermont,Primary,DEM,primary
+2012,2012-03-06,Vermont,Primary,REP,primary
+2012,2012-06-03 2012-06-03,Virgin Islands,Territorial Convention - Saturday 2 June,DEM,primary
+2012,2012-03-10,Virgin Islands,Territorial Caucus,REP,primary
+2012,2012-03-06 2012-03-06,Virginia,Primary (only 1 candidate qualified - primary cancelled),DEM,primary
+2012,2012-03-06,Virginia,Primary,REP,primary
+2012,2012-04-15,Washington,Precinct Caucuses,DEM,primary
+2012,2012-05-20,Washington,Congressional District Caucuses,DEM,primary
+2012,2012-06-03 2012-06-03,Washington,State Convention - Friday 1 June,DEM,primary
+2012,2012-03-03,Washington,Precinct Caucuses / Non-binding Straw Poll,REP,primary
+2012,2012-06-02 2012-06-02,Washington,State Convention - Wednesday 30 May,REP,primary
+2012,2012-05-08,West Virginia,Primary,DEM,primary
+2012,2012-05-08,West Virginia,Primary,REP,primary
+2012,2012-04-03,Wisconsin,Primary,DEM,primary
+2012,2012-04-03,Wisconsin,Primary,REP,primary
+2012,2012-04-14,Wyoming,County Caucuses,DEM,primary
+2012,2012-05-26,Wyoming,State Convention,DEM,primary
+2012,2012-03-10 2012-03-10,Wyoming,County Conventions - Tuesday 6 March,REP,primary
+2012,2012-04-14 2012-04-14,Wyoming,Convention - Thursday 12 April,REP,primary
+2016,2016-03-01,Alabama,Primary,DEM,primary
+2016,2016-03-01,Alabama,Primary,REP,primary
+2016,2016-03-26,Alaska,Precinct / House District Caucuses,DEM,primary
+2016,2016-05-15 2016-05-15,Alaska,State Party Convention - Saturday 14 May,DEM,primary
+2016,2016-03-01,Alaska,District Conventions,REP,primary
+2016,2016-03-01,American Samoa,Territorial Caucus,DEM,primary
+2016,2016-03-22,American Samoa,Territorial Caucus,REP,primary
+2016,2016-03-22,Arizona,Primary,DEM,primary
+2016,2016-03-22,Arizona,Primary,REP,primary
+2016,2016-03-01,Arkansas,Primary,DEM,primary
+2016,2016-03-01,Arkansas,Primary,REP,primary
+2016,2016-06-07,California,Primary,DEM,primary
+2016,2016-06-07,California,Primary,REP,primary
+2016,2016-03-01,Colorado,Precinct Caucus,DEM,primary
+2016,2016-04-15 2016-04-15,Colorado,District Assemblies/Conventions - Friday 1 April,DEM,primary
+2016,2016-04-16,Colorado,State Assembly/Convention,DEM,primary
+2016,2016-04-02,Colorado,"District Conventions: CDs 1,6",REP,primary
+2016,2016-04-07,Colorado,District Convention: CDs 7,REP,primary
+2016,2016-04-08,Colorado,"District Conventions: CDs 2,3,4,5",REP,primary
+2016,2016-04-09,Colorado,State Convention,REP,primary
+2016,2016-04-26,Connecticut,Primary,DEM,primary
+2016,2016-04-26,Connecticut,Primary,REP,primary
+2016,2016-04-26,Delaware,Primary,DEM,primary
+2016,2016-04-26,Delaware,Primary,REP,primary
+2016,2016-03-08 2016-03-08,Democrats Abroad,Global Party Run Primary - Tuesday 1 March,DEM,primary
+2016,2016-06-14,District of Columbia,Primary,DEM,primary
+2016,2016-03-12,District of Columbia,Convention,REP,primary
+2016,2016-03-15,Florida,Primary,DEM,primary
+2016,2016-03-15,Florida,Primary,REP,primary
+2016,2016-03-01,Georgia,Primary,DEM,primary
+2016,2016-03-01,Georgia,Primary,REP,primary
+2016,2016-05-07,Guam,Caucus,DEM,primary
+2016,2016-03-12,Guam,Territorial Caucus,REP,primary
+2016,2016-03-26,Hawaii,Precinct Caucus,DEM,primary
+2016,2016-03-08,Hawaii,Precinct Caucuses,REP,primary
+2016,2016-03-22,Idaho,County Caucus,DEM,primary
+2016,2016-03-08,Idaho,Primary,REP,primary
+2016,2016-03-15,Illinois,Primary,DEM,primary
+2016,2016-03-15,Illinois,Primary,REP,primary
+2016,2016-05-22 2016-05-22,Illinois,Convention - Friday 20 May,REP,primary
+2016,2016-05-03,Indiana,Primary,DEM,primary
+2016,2016-05-03,Indiana,Primary,REP,primary
+2016,2016-02-01,Iowa,Precinct Caucuses,DEM,primary
+2016,2016-04-30,Iowa,District Conventions,DEM,primary
+2016,2016-06-18,Iowa,State Convention,DEM,primary
+2016,2016-02-01,Iowa,Precinct Caucuses,REP,primary
+2016,2016-03-05,Kansas,Local Unit Conventions,DEM,primary
+2016,2016-03-05,Kansas,Caucuses,REP,primary
+2016,2016-05-17,Kentucky,Primary,DEM,primary
+2016,2016-03-05,Kentucky,Presidential Caucuses,REP,primary
+2016,2016-03-05,Louisiana,Primary,DEM,primary
+2016,2016-03-05,Louisiana,Primary,REP,primary
+2016,2016-03-06,Maine,Municipal Caucuses,DEM,primary
+2016,2016-05-07 2016-05-07,Maine,State Convention. - Friday 6 May,DEM,primary
+2016,2016-03-05,Maine,Municipal Caucuses,REP,primary
+2016,2016-04-26,Maryland,Primary,DEM,primary
+2016,2016-04-26,Maryland,Primary,REP,primary
+2016,2016-03-01,Massachusetts,Primary,DEM,primary
+2016,2016-03-01,Massachusetts,Primary,REP,primary
+2016,2016-03-08,Michigan,Primary,DEM,primary
+2016,2016-03-08,Michigan,Primary,REP,primary
+2016,2016-03-01,Minnesota,Precinct Caucuses,DEM,primary
+2016,2016-03-01,Minnesota,Precinct Caucuses,REP,primary
+2016,2016-03-08,Mississippi,Primary,DEM,primary
+2016,2016-03-08,Mississippi,Primary,REP,primary
+2016,2016-03-15,Missouri,Primary,DEM,primary
+2016,2016-03-15,Missouri,Primary,REP,primary
+2016,2016-06-07,Montana,Primary,DEM,primary
+2016,2016-06-07,Montana,Primary,REP,primary
+2016,2016-03-05,Nebraska,Precinct Caucuses,DEM,primary
+2016,2016-05-10,Nebraska,Presidential Primary,REP,primary
+2016,2016-02-20,Nevada,Precinct Viability Caucuses,DEM,primary
+2016,2016-05-15 2016-05-15,Nevada,State Convention - Saturday 14 May,DEM,primary
+2016,2016-02-23,Nevada,Precinct Caucuses,REP,primary
+2016,2016-02-09,New Hampshire,Primary,DEM,primary
+2016,2016-02-09,New Hampshire,Primary,REP,primary
+2016,2016-06-07,New Jersey,Primary,DEM,primary
+2016,2016-06-07,New Jersey,Primary,REP,primary
+2016,2016-06-07,New Mexico,Primary,DEM,primary
+2016,2016-06-07,New Mexico,Primary,REP,primary
+2016,2016-04-19,New York,Primary,DEM,primary
+2016,2016-04-19,New York,Primary,REP,primary
+2016,2016-03-15,North Carolina,Primary,DEM,primary
+2016,2016-03-15,North Carolina,Primary,REP,primary
+2016,2016-06-07,North Dakota,Legislative District Caucuses,DEM,primary
+2016,2016-04-03 2016-04-03,North Dakota,State Convention - Friday 1 April,REP,primary
+2016,2016-03-12,Northern Marianas,Convention,DEM,primary
+2016,2016-03-15,Northern Marianas,Commonwealth Convention,REP,primary
+2016,2016-03-15,Ohio,Primary,DEM,primary
+2016,2016-03-15,Ohio,Primary,REP,primary
+2016,2016-03-01,Oklahoma,Primary,DEM,primary
+2016,2016-03-01,Oklahoma,Primary,REP,primary
+2016,2016-05-17,Oregon,Primary,DEM,primary
+2016,2016-05-17,Oregon,Primary,REP,primary
+2016,2016-04-26,Pennsylvania,Primary,DEM,primary
+2016,2016-04-26,Pennsylvania,Primary,REP,primary
+2016,2016-05-21,Pennsylvania,Summer Meeting,REP,primary
+2016,2016-06-05,Puerto Rico,Primary,DEM,primary
+2016,2016-03-06,Puerto Rico,Primary,REP,primary
+2016,2016-04-26,Rhode Island,Primary,DEM,primary
+2016,2016-04-26,Rhode Island,Primary,REP,primary
+2016,2016-02-27,South Carolina,Primary,DEM,primary
+2016,2016-02-20,South Carolina,Primary,REP,primary
+2016,2016-06-07,South Dakota,Primary,DEM,primary
+2016,2016-06-07,South Dakota,Primary,REP,primary
+2016,2016-03-01,Tennessee,Primary,DEM,primary
+2016,2016-03-01,Tennessee,Primary,REP,primary
+2016,2016-03-01,Texas,Primary,DEM,primary
+2016,2016-06-18 2016-06-18,Texas,State Convention - Thursday 16 June,DEM,primary
+2016,2016-03-01,Texas,Primary,REP,primary
+2016,2016-03-22,Utah,Neighborhood Caucuses,DEM,primary
+2016,2016-03-22,Utah,Precinct Caucuses,REP,primary
+2016,2016-03-01,Vermont,Primary,DEM,primary
+2016,2016-03-01,Vermont,Primary,REP,primary
+2016,2016-06-04,Virgin Islands,District Caucuses,DEM,primary
+2016,2016-03-10,Virgin Islands,Territorial Caucus,REP,primary
+2016,2016-03-01,Virginia,Primary,DEM,primary
+2016,2016-03-01,Virginia,Primary,REP,primary
+2016,2016-03-26,Washington,Precinct Caucuses,DEM,primary
+2016,2016-05-21,Washington,Congressional District Caucuses,DEM,primary
+2016,2016-05-24,Washington,Primary,REP,primary
+2016,2016-05-10,West Virginia,Primary,DEM,primary
+2016,2016-05-10,West Virginia,Primary,REP,primary
+2016,2016-04-05,Wisconsin,Primary,DEM,primary
+2016,2016-04-05,Wisconsin,Primary,REP,primary
+2016,2016-04-09,Wyoming,County Caucuses,DEM,primary
+2016,2016-03-12,Wyoming,County Conventions,REP,primary
+2016,2016-04-16 2016-04-16,Wyoming,State Convention - Thursday 14 April,REP,primary
