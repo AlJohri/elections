@@ -87,25 +87,45 @@ def parse_p_alphabetical(html, year):
 
 if __name__ == "__main__":
 
-    elections = []
+    # GXX Pages
+
+    g_pages = []
     for year in inclusive_range(2, 18):
         url = f'https://www.thegreenpapers.com/G{year:02}/events.phtml'
         response = requests.get(url)
-        elections += parse_g_alphabetical(response.text, 2000+year)
+        g_pages += parse_g_alphabetical(response.text, 2000+year)
 
-    with open('elections.csv', 'w') as f:
-        writer = csv.DictWriter(f, fieldnames=elections[0].keys())
+    with open('g_pages.csv', 'w') as f:
+        writer = csv.DictWriter(f, fieldnames=g_pages[0].keys())
         writer.writeheader()
-        writer.writerows(elections)
+        writer.writerows(g_pages)
+    
+    # PXX Pages
 
-    primaries = []
+    p_pages = []
 
     for year in inclusive_range(4, 16, 4):
         url = f'https://www.thegreenpapers.com/P{year:02}/events.phtml?s=a&f=m'
         response = requests.get(url)
-        primaries += parse_p_alphabetical(response.text, 2000+year)
+        p_pages += parse_p_alphabetical(response.text, 2000+year)
 
-    with open('primaries.csv', 'w') as f:
-        writer = csv.DictWriter(f, fieldnames=primaries[0].keys())
+    with open('p_pages.csv', 'w') as f:
+        writer = csv.DictWriter(f, fieldnames=p_pages[0].keys())
         writer.writeheader()
-        writer.writerows(primaries)
+        writer.writerows(p_pages)
+    
+    # Data Download Pages
+
+    for year in inclusive_range(12, 20, 4):
+        url = f'https://www.thegreenpapers.com/P{year:02}/download.phtml'
+        response = requests.get(url)
+        link = lxml.html.fromstring(response.text).cssselect("a[target]")[0].get('href')
+        link = link.replace('?dl=0', '?dl=1')
+        print(url, link)
+
+    for year in inclusive_range(12, 18):
+        url = f'https://www.thegreenpapers.com/G{year:02}/download.phtml'
+        response = requests.get(url)
+        link = lxml.html.fromstring(response.text).cssselect("a[target]")[0].get('href')
+        link = link.replace('?dl=0', '?dl=1')
+        print(url, link)
