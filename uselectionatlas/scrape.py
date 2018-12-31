@@ -66,4 +66,5 @@ if __name__ == "__main__":
 
     with open('primaries.csv', 'w') as f:
         writer = csv.DictWriter(f, fieldnames=primaries[0].keys())
+        writer.writeheader()
         writer.writerows(primaries)
